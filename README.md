@@ -1,7 +1,7 @@
 # PHP-primus
 
 <ul>
-  <h1>Development Environment</h1>
+  <h5>Development Environment</h5>
   <li>PHP</li>
   <li>MySQL</li>
   <li>Composer</li>

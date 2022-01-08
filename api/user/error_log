@@ -1,0 +1,20 @@
+[25-Sep-2021 15:08:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/datapico/public_html/reprimus/api/user/saleRepList.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/user/saleRepList.php on line 11
+[25-Sep-2021 15:08:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/datapico/public_html/reprimus/api/user/saleRepList.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/user/saleRepList.php on line 11
+[25-Sep-2021 15:08:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/datapico/public_html/reprimus/api/user/saleRepList.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/user/saleRepList.php on line 11
+[25-Sep-2021 15:09:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/datapico/public_html/reprimus/api/user/saleRepList.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/user/saleRepList.php on line 11
+[25-Sep-2021 15:09:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/datapico/public_html/reprimus/api/user/saleRepList.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/user/saleRepList.php on line 11

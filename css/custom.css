@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&family=Raleway&display=swap');
+a{
+	text-decoration: none;
+}
+li{
+	list-style-type: none;
+}
+input:focus, textarea:focus, select:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.bg-custom{
+	background: rgb(0,102,102);
+	background: -moz-linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+	background: linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+}
+.text-custom{
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.shadow-overlay{
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2000;
+}
+.prime-font, h1, h2{
+    font-family: 'Paytone One', sans-serif !important;
+}
+.secondary-font{
+    font-family: 'Raleway', sans-serif !important;
+}
+.font-16pt{
+	font-size: 16pt;
+}
+.border-custom{
+  border-image-slice: 1;
+  border-width: 3px;
+  border-image-source: linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+  color: rgb(0,102,102);
+  transition: 0.3s ease;
+}
+.border-custom:hover{
+	background: rgb(0,102,102);
+	background: -moz-linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+	background: linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+	color: white;
+}
+.btn-custom{
+	border: 3px solid rgba(0,102,102,0);
+	background: rgb(0,102,102);
+	background: -moz-linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+	background: linear-gradient(90deg, rgba(0,102,102,1) 0%, rgba(52,158,167,1) 100%);
+}
+.btn-custom:hover{
+	border: 3px solid rgb(0,102,102);
+	-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.vh-custom{
+	height: 70vh;
+}
+.h-95{
+	height: 95%;
+}
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+
+}
+.scalex09{
+	transform: scale(0.9);
+}
+.darker{
+	background: rgba(0,0,0,0.2);
+}
+.lighter{
+	background: rgba(255,255,255,0.7);
+}
+.radius-25{
+	border-radius: 25px;
+}
+#users-container button{
+	text-align: left;
+}
+#users-container .fa{
+	text-align: right;
+	transition: 0.3s ease;
+}
+.spin90{
+	transform: rotate(-90deg);
+}
+.pac-container{
+	z-index: 3000;
+}
+/*.form-floating>.form-control, .form-floating>.form-select{
+	height: 3.5rem;
+}*/

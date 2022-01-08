@@ -1,0 +1,68 @@
+[25-Sep-2021 15:02:22 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/locationList.php(5): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[25-Sep-2021 15:02:32 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/locationList.php(5): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[25-Sep-2021 15:02:43 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/locationList.php(5): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[25-Sep-2021 15:06:20 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/locationList.php(5): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[28-Sep-2021 15:28:02 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/locationList.php(5): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[28-Sep-2021 15:28:27 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/createNewLocation.php(6): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[28-Sep-2021 15:28:29 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/createNewLocation.php(6): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[28-Sep-2021 15:28:40 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/createNewLocation.php(6): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[28-Sep-2021 15:28:43 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/createNewLocation.php(6): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[28-Sep-2021 15:32:41 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/locationList.php(5): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[28-Sep-2021 15:33:07 America/Boise] PHP Fatal error:  Uncaught UnexpectedValueException: Wrong number of segments in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php:88
+Stack trace:
+#0 /home3/datapico/public_html/reprimus/api/validate.php(23): Firebase\JWT\JWT::decode('null', 'bGS6lzFqvvSQ8AL...', Array)
+#1 /home3/datapico/public_html/reprimus/api/admin/locationList.php(5): include('/home3/datapico...')
+#2 {main}
+  thrown in /home3/datapico/public_html/reprimus/api/vendor/firebase/php-jwt/src/JWT.php on line 88
+[29-Dec-2021 15:48:25 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'datapico_primus'@'localhost' to database 'user_tkn' in /home3/datapico/public_html/reprimus/api/admin/removeOperator.php on line 8
+[29-Dec-2021 15:48:25 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/datapico/public_html/reprimus/api/admin/removeOperator.php on line 17

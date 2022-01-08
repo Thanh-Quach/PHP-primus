@@ -138,4 +138,4 @@
 		</div>
 	</div>
 </div>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWpJUo3sffq0vMamMNw7VzBGsF3d3aoc0&libraries=places&callback=initMap&channel=GMPSB_addressselection_v1_cA" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=[keyhere]&libraries=places&callback=initMap&channel=GMPSB_addressselection_v1_cA" async defer></script>
